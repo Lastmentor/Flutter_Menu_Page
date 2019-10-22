@@ -1,6 +1,8 @@
-# flutter_menu
+# Flutter Menu UI
 
 A new Flutter application.
+
+![menu](https://user-images.githubusercontent.com/23746859/67312037-4c973700-f509-11e9-9983-c535ba5ecbcf.jpg)
 
 ## Getting Started
 
